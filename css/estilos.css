@@ -74,7 +74,7 @@ body{
     margin-top: 1%;
     margin-left: 2%;
     margin-right: 1%;   
-    overflow-y: auto;
+    overflow-y: auto; /* esto controla todo lo que sale en el eje vertical, y lo puse en auto para que lo haga solo si es necesario */
     border-radius: 2px;
 }
 

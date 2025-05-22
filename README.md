@@ -1,2 +1,2 @@
 # cv
-curriculum10-04-25
+Curriculum en una pagina estatica HTML
